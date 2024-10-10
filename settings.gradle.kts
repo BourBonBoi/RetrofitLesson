@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "RetrofitLesson"
 include(":app")
+include(":app:retrofitdataclass")
